@@ -23,7 +23,7 @@ HTML | CSS | JavaScript | BOOTSRAPS | SASS
 
 Quick Start
 # Clone repository
-$ git clone https://github.com/YOURUSERNAME/saddiqueportfolio
+$ git clone https://github.com/saddique-stack/Saddique-Porfolio
 $ cd saddiquefolio
 
 # Install dependencies
@@ -35,13 +35,6 @@ $ npm run compile:scss
 
 Open index.html in your browser or use Live Server.
 
-Customization
-
-Change theme color: sass/abstracts/_variables.scss → $themeClrPrimary
-
-Update content: /index.html → Hero, About, Projects, Contact
-
-Add projects: Duplicate .projects__row in Projects section
 
 Deployment
 
