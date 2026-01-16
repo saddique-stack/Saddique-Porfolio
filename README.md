@@ -4,7 +4,7 @@ A modern, multipage portfolio template for developers. Fully responsive, fast, a
 
 Live Demo
  
-<div align="center"> <img src="https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif" alt="Saddiquefolio Demo" width="100%" /> </div>
+ 
 Features
 
 Easy to setup 
